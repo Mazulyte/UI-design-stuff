@@ -1,2 +1,2 @@
-# first-something
-First attempt to create a repo
+# UI-design-stuff
+Useful stuff on UI
